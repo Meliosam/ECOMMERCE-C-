@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core.Application",
+    "\\Core.Domain",
+    "\\Core.Domain\\Entities",
+    "\\Infra.Data",
+    "\\Infra.Data\\Repositories",
+    "\\WebAPI",
+    "\\WebAPI\\Controllers"
+  ],
+  "SelectedNode": "\\WebAPI\\Controllers\\ProdutoController.cs",
+  "PreviewInSolutionExplorer": false
+}

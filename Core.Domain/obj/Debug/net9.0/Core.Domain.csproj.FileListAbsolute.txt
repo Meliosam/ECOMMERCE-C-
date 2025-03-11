@@ -1,0 +1,14 @@
+C:\Users\ml\Projeto\Core.Domain\bin\Debug\net9.0\Core.Domain.deps.json
+C:\Users\ml\Projeto\Core.Domain\bin\Debug\net9.0\Core.Domain.runtimeconfig.json
+C:\Users\ml\Projeto\Core.Domain\bin\Debug\net9.0\Core.Domain.dll
+C:\Users\ml\Projeto\Core.Domain\bin\Debug\net9.0\Core.Domain.pdb
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.csproj.AssemblyReference.cache
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.AssemblyInfoInputs.cache
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.AssemblyInfo.cs
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.dll
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\refint\Core.Domain.dll
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.pdb
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\Core.Domain.genruntimeconfig.cache
+C:\Users\ml\Projeto\Core.Domain\obj\Debug\net9.0\ref\Core.Domain.dll
