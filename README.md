@@ -5,7 +5,7 @@ Sistema de e-commerce completo com cadastro de produtos, clientes e pedidos, des
 ## 🔧 Tecnologias  
 - **Back-end**: .NET Core, Entity Framework, SQL Server  
 - **Padrões**: CQRS, Injeção de Dependência  
-- **Ferramentas**: Visual Studio, SSMS
+- **Ferramentas**: Visual Studio, SSMS, AutoMapper, MediatR
 - **Autenticação:**: JWT (JSON Web Tokens)
 - **Documentação:**: Swagger
 -**Containerização:**: Docker
@@ -22,11 +22,12 @@ Sistema de e-commerce completo com cadastro de produtos, clientes e pedidos, des
    git clone https://github.com/Meliosam/ECOMMERCE-C-.git
 
 
-
-   #### **2️⃣ Adicione Swagger 
+   
 - Instale o pacote:  
-  ```bash  
-  dotnet add package Swashbuckle.AspNetCore
+  ```bash   
+  #### **2️⃣ Adicione Swagger
+   dotnet add package Swashbuckle.AspNetCore
+    
 
 
   
