@@ -4,15 +4,36 @@ Sistema de e-commerce completo com cadastro de produtos, clientes e pedidos, des
 
 ## 🔧 Tecnologias  
 - **Back-end**: .NET Core, Entity Framework, SQL Server  
-- **Padrões**: MVC, Injeção de Dependência  
-- **Ferramentas**: Visual Studio, SSMS  
+- **Padrões**: CQRS, Injeção de Dependência  
+- **Ferramentas**: Visual Studio, SSMS
+- **Autenticação:**: JWT (JSON Web Tokens)
+- **Documentação:**: Swagger
+-**Containerização:**: Docker
+
 
 ## 🚀 Funcionalidades  
 - ✅ CRUD de produtos, clientes e pedidos  
-- ✅ Autenticação básica (em desenvolvimento)  
+- ✅ Autenticação (JSON Web Tokens)  
 - ✅ Integração com banco de dados relacional  
 
 ## 📦 Como Executar  
 1. Clone o repositório:  
    ```bash  
-   git clone https://github.com/Meliosam/ECOMMERCE-C-.git  
+   git clone https://github.com/Meliosam/ECOMMERCE-C-.git
+
+   #### **2️⃣ Adicione Swagger 
+- Instale o pacote:  
+  ```bash  
+  dotnet add package Swashbuckle.AspNetCore
+
+
+  
+   #### **3️⃣ Adicione os Tokens
+  -Instale o pacote:
+    ```bash
+  dotnet add package Microsoft.IndetityModel.JsonWebTokens
+
+
+
+
+  
